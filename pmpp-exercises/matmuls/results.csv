@@ -1,0 +1,5 @@
+M,N,K,impl,time_ms,gflops
+512,512,512,cpu_naive    (matmul.cu),113.6391,2.3622
+512,512,512,gpu_naive_v1 (matmul_v1.cu),0.9747,275.4088
+512,512,512,cpu_naive    (matmul.cu),112.3563,2.3891
+512,512,512,gpu_naive_v1 (matmul_v1.cu),0.9415,285.1268
