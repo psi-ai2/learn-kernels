@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pmpp chapter 2 exercises.md",
+                "file": "Pmpp chapter 3 exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pmpp chapter 2 exercises"
+              "title": "Pmpp chapter 3 exercises"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pmpp chapter 2 exercises.md",
+                "file": "Pmpp chapter 3 exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pmpp chapter 2 exercises"
+              "title": "Backlinks for Pmpp chapter 3 exercises"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pmpp chapter 2 exercises.md",
+                "file": "Pmpp chapter 3 exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pmpp chapter 2 exercises"
+              "title": "Outgoing links from Pmpp chapter 3 exercises"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pmpp chapter 2 exercises.md",
+                "file": "Pmpp chapter 3 exercises.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pmpp chapter 2 exercises"
+              "title": "Outline of Pmpp chapter 3 exercises"
             }
           }
         ]
@@ -209,7 +209,11 @@
   },
   "active": "4d490bee82102c19",
   "lastOpenFiles": [
-    "Pmpp chapter 3 exercises.md",
-    "Pmpp chapter 2 exercises.md"
+    "$null",
+    "Pmpp chapter 4 exercises.md",
+    "matrixvec.cu",
+    "rowmajor.cu",
+    "Pmpp chapter 2 exercises.md",
+    "Pmpp chapter 3 exercises.md"
   ]
 }
