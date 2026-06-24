@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pmpp chapter 3 exercises.md",
+                "file": "Pmpp chapter 4 exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pmpp chapter 3 exercises"
+              "title": "Pmpp chapter 4 exercises"
             }
           },
           {
@@ -209,11 +209,13 @@
   },
   "active": "4d490bee82102c19",
   "lastOpenFiles": [
-    "$null",
+    "Pmpp chapter 5 exercises.md",
     "Pmpp chapter 4 exercises.md",
+    "$null",
+    "PMPP Chapter 4 Notes & Exercises.md",
+    "Pmpp chapter 3 exercises.md",
     "matrixvec.cu",
     "rowmajor.cu",
-    "Pmpp chapter 2 exercises.md",
-    "Pmpp chapter 3 exercises.md"
+    "Pmpp chapter 2 exercises.md"
   ]
 }
