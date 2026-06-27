@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "029137af6628b0f4",
+        "id": "ac22f4d37a625948",
         "type": "tabs",
         "children": [
           {
-            "id": "d0df92e6f1481e75",
+            "id": "4c3cd64f197018ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -177,8 +177,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0df92e6f1481e75",
+  "active": "4c3cd64f197018ed",
   "lastOpenFiles": [
+    "Pmpp.md",
     "PMPP Chapter 4 Notes & Exercises.md.md"
   ]
 }

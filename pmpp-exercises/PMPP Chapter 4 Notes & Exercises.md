@@ -1,3 +1,5 @@
+# This is from Version 3 of the Book!!!! See Pmpp Chapter 4.exercises.md for the updated solutions
+
 
 * Blocks can only hold a total of 512 threads, regardless of shapes
 * Grids themselves span thousands to millions of light-weight threads for SPMD computation
